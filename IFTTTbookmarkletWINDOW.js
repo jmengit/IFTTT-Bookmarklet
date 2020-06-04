@@ -4,6 +4,8 @@
 //Also choose your 3 body values - can be strings and/or javascript variables and properties
 //If not using all body params delete the line in the "var params" declaration as well as the relevent part of "const url"
 //See here for more info about IFTTT webhooks - https://ifttt.com/maker_webhooks
+//This project is licensed under the GNU General Public License v3.0
+//Created by jmengit - https://github.com/jmengit/
 javascript:(
   function() {
     var params = {
