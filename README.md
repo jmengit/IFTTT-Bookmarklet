@@ -9,7 +9,9 @@ The silent version sends your data to IFTTT with no confirmation. The window ver
 ### Second - Configure "params" variable
 
 Event: Put your IFTTT EventName between the quotes
+
 Key: Put your IFTTT Webhook Key between the quotes
+
 val1-3: Put whatever you want to be sent to IFTTT in your HTTP GET body
 
 ### Third - Create a bookmarklet
